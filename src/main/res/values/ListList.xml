@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="List">
+        <item>Adidas</item>
+        <item>Nike</item>
+        <item>Louis_Vuitton</item>
+        <item>Gucci</item>
+        <item>Versace</item>
+        <item>Giorgio_Armani</item>
+    </string-array>
+</resources>
